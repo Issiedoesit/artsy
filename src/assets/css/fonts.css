@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'satoshi-black'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Black.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-black-italic';
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-BlackItalic.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-bold'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Bold.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-bold-italic'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-BoldItalic.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-regular'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-medium'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Medium.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-medium-italic'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-MediumItalic.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-light'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Light.otf") format("truetype");
+}
+@font-face {
+    font-family: 'satoshi-light-italic'; 
+    src: url("./../fonts/Satoshi_Complete/Fonts/OTF/Satoshi-LightItalic.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-bold'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Bold.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-semibold'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Semibold.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-medium'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Medium.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-regular'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Regular.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-light'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Light.otf") format("truetype");
+}
+@font-face {
+    font-family: 'clash-extralight'; 
+    src: url("./../fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Extralight.otf") format("truetype");
+}
+@font-face {
+    font-family: 'grinched';
+    font-weight: normal; 
+    font-style: italic;
+    src: url("./../fonts/test-fonts/GrinchedRegular.otf") format("opentype");
+}
