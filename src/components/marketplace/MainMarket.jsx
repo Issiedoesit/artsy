@@ -1,5 +1,5 @@
 import {React} from 'react'
-import MarketCard from '../../reuseables/cards/MarketCard'
+import MarketCard from '../../widgets/cards/MarketCard'
 import marketData from '../../data/market/marketData'
 
 export default function MainMarket({resultCount, query}){

@@ -5,7 +5,7 @@ import MainMarket from './MainMarket'
 import $ from 'jquery'
 
 
-export default function Product(){
+export default function MarketPlace(){
     const [query, setQuery] = useState('')
     const [resultCount, setResultCount] = useState(0)
     const [totalCount, setTotalCount] = useState(0)
@@ -60,7 +60,7 @@ export default function Product(){
             <SearchBar searchResults={resultCount} total={totalCount} />
             {/* <div>returned {resultCount} results for {query}</div> */}
             
-            <section className='px-10 lg:px-28 py-10 flex flex-col md:flex-row gap-20 md:gap-28'>
+            <section className='px-4 md:px-10 lg:px-28 pb-10 md:py-10 flex flex-col md:flex-row gap-26 md:gap-28'>
                 <SideBar />
                 <MainMarket resultCount={resultCount} query={query} />
             </section>

@@ -1,6 +1,6 @@
 import React from 'react'
 import exploreData from '../../../data/explore/exploreData'
-import ExploreCard from '../../../reuseables/cards/ExploreCard'
+import ExploreCard from '../../../widgets/cards/ExploreCard'
 
 
 
