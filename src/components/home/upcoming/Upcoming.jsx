@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import {React, useState, useEffect} from 'react'
 import upcoming_img from './../../../assets/images/upcoming/upcoming-bg.png'
 import upcomingData from '../../../data/upcoming/UpcomingData';
-import UpcomingSlide from './upcomingSlide';
+import UpcomingSlide from './UpcomingSlide';
 // import $ from 'jquery';
 
 
