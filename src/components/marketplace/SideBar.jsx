@@ -53,7 +53,7 @@ return(
             <h1 className='font-satoshi-medium text-lg md:text-2xl'>Filter</h1>
         </button>
         
-        <section  className={`space-y-10 ${float ? '' : 'invisible md:visible opacity-0 md:opacity-100 h-0 w-0 md:w-full md:h-auto'} transition-all ease-in-out duration-500 hover:drop-shadow-lg w-full bg-white pt-16 pb-8 md:py-0 px-4 md:px-0 h-screen fixed top-0 left-0 md:bg-transparent md:static md:block`}>
+        <section  className={`space-y-10 ${float ? 'overflow-y-auto bg-red-500' : 'invisible md:visible opacity-0 md:opacity-100 h-0 w-0 md:w-full md:h-auto'} transition-all ease-in-out duration-500 hover:drop-shadow-lg w-full bg-white pt-16 pb-8 md:py-0 px-4 md:px-0 h-screen fixed top-0 left-0 md:bg-transparent md:static md:block`}>
             <button onClick={()=>setFloat(false)} type='button' className={`flex md:hidden fixed top-4 right-4 text-xl font-semibold px-4 py-2 rounded-lg border border-black`}>
                 X
             </button>
